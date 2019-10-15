@@ -1,0 +1,5 @@
+c:\users\nnoercane\documents\visual studio 2015\Projects\ConsolePointer\ConsolePointer\bin\Debug\ConsolePointer.exe
+c:\users\nnoercane\documents\visual studio 2015\Projects\ConsolePointer\ConsolePointer\bin\Debug\ConsolePointer.pdb
+c:\users\nnoercane\documents\visual studio 2015\Projects\ConsolePointer\ConsolePointer\obj\Debug\ConsolePointer.exe
+c:\users\nnoercane\documents\visual studio 2015\Projects\ConsolePointer\ConsolePointer\obj\Debug\ConsolePointer.pdb
+c:\users\nnoercane\documents\visual studio 2015\Projects\ConsolePointer\ConsolePointer\obj\Debug\ConsolePointer.csprojResolveAssemblyReference.cache
